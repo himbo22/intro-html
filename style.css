@@ -22,12 +22,14 @@ body
     margin: 0;
     padding: 0;
     border: 1px solid black;
+    font-size: 40px;
 }
 div
 {
     display: flex;
     justify-content: space-around;
     text-align: center;
+    font-size: large;
 }
 
 body
@@ -49,7 +51,7 @@ body
 }
 .image
 {
-    width: 400px;
+    width: 800px;
 
 }
 .gmail
@@ -59,4 +61,5 @@ body
     text-align: center;
     position:relative;
         bottom: -100%;
+    font-size: 30px;
 }
